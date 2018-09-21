@@ -1,0 +1,27 @@
+.article, .jumbotron {
+    margin-bottom: 20px;
+    background-color: burlywood;
+}
+
+.article a, .jumbotron a {
+    color: white;
+}
+
+.article {
+    border-bottom: 5px solid black;
+    border-left: 2px solid black;
+}
+
+.post-comment {
+    margin-bottom: 10px;
+}
+
+.comment {
+    background-color: black;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.display-3{
+    text-align: right;
+}
